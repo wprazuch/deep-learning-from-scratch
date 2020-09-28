@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\deeplearning\\python.exe"
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "100",
+        "--experimental"
+    ],
+    "python.linting.flake8Args": [
+        "-d",
+        "C0301"
+    ],
+    "autoDocstring.docstringFormat": "numpy",
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
